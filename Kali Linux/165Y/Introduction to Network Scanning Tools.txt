@@ -1,0 +1,24 @@
+How to install netdiscover: sudo apt install netdiscover
+1.sudo-netdiscover: sudo is used to access tools, ports, or services that require administrative privileges and netdiscover can be used to: 
+     I.	Detect online hosts passively 
+    II.	Search for online hosts by sending ARP requests 
+   III.	Inspect network ARP traffic 
+    IV.	Find network addresses using auto scan mode 
+     V.	Show the vendor of each MAC address discovered
+
+How to install nmap: sudo apt install nmap
+2.sudo-nmap: 
+
+  •-p: Specifies which ports you want to scan. You can list individual ports separated by commas or use ranges separated by dashes.
+  •-sS: Initiates a SYN stealth scan, which is less likely to be logged.
+  •-sV: Attempts to determine the version of the services running on open ports.
+  •-O: Enables OS detection.
+  •-A: Enables OS detection, version detection, script scanning, and traceroute.
+  •–script: Enables the use of various scripts from Nmap’s script database for more detailed discovery.
+  •-v: Increases verbosity, providing more information about the scan in progress.
+
+3.Netowrk Discovery and Mapping: Using network scanning to discover devices and map out the network topology.
+      sudo netdicover -r <IP range>
+
+4.Vulnerability Assessment: Identifying potential vulnerabilities in the network infrastructure.
+      sudo nmap --script vuln <target IP>

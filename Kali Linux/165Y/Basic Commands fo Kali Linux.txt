@@ -1,0 +1,44 @@
+Basic Command lines of Kali Linux - 
+
+1.pwd: Displays the current working directory in the shell prompt window.
+
+2.ls-al: The most useful commands in Kali Linux is the 'ls' command. The ls command lists the directory contents of files and directories. With the help of the ls command, we can easily list out every hidden file of a directory with the -a attribute, and for more detailed output, we can use the -l attribute.
+
+3.ls-l: lists files in a long format, including details such as file permissions, owner, group, size, and modification time.
+
+4.ls-lh: Displays file size in a human-readable format.
+
+5.ls-a: Lists all files, including hidden files. 
+
+6.ls-F: Provides a full listing that indicates the type of file. 
+
+7.ls-R: Lists files recursively, including the contents of all subdirectories. 
+
+8.ls-t: Lists files in order of last modification time. 
+
+9.ls-r: Lists files in reverse order.
+
+10.cd: The ‘cd’ command is also called chdir (Change Directory). We used this command to change or switch the current working directory.
+
+11.mkdir: The ‘mkdir’ command is used to create directories. For example, if we wish to create a directory named ‘demo1’ under the ‘demofile’ directory, then we have to open a terminal and enter the below command:
+	cd demofile 
+	mkdir demo1  
+
+12.mv: With the help of the 'mv' command, we can move or renames files and directories on our file system.
+
+13.touch: It is used to create a file without any content (Empty file).
+
+14.vi: It allows us to create, edit and manage text files.
+
+15.uname: The 'uname' command displays the current system's information.
+
+16.uname-a: we can learn more about our system, including Kernel Name, Node Name, Kernel Release, Kernel Version, Hardware Platform, Processor, and Operating System.
+
+17.rm: It is used to permanently remove files and directories.
+
+18.ps-aux: It is a tool to monitor processes running on your Linux system.
+
+19.kill: it is used to terminate a process, or stop a program that is running on a computer.
+
+
+

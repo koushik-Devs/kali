@@ -1,0 +1,26 @@
+1.Antivirus Software:
+   An antivirus product is a program designed to detect and remove viruses and other kinds of malicious software from your machine(computer or laptop).
+
+      I. When you first install (or switch on) your antivirus product, run a full scan to make sure your computer is free of all known malware.
+     II. Make sure your antivirus software is set to automatically scan all new files, such as those downloaded from the internet or stored on a USB stick, external hard drive, SD card, or other type of removable media.
+    III. Make sure your antivirus software is set to receive updates automatically.
+
+2.Firewall Software:
+   A firewall is a network security device designed to monitor, filter, and control incoming and outgoing network traffic based on predetermined security rules. 
+    
+       How it works:
+A firewall acts as a filter, scanning incoming and outgoing data and blocking anything suspicious. 
+       What it protects against:
+Firewalls protect against external threats like viruses, phishing emails, and denial-of-service (DoS) attacks, as well as insider threats like risky applications.
+
+3.IDS and IPS:
+   An intrusion detection system (IDS) identifies potential threats and weaknesses in networked systems. An IDS examines network traffic, alerting administrators to suspicious activities without intervening in data transmission.
+
+   An intrusion prevention system (IPS) actively blocks threats, monitors intrusion data, and prevents attacks from developing. IPS is an active network component that examines every passing packet and takes the correct remedial action.
+
+4.Virtual Private Networks (VPN):
+   A VPN, or Virtual Private Network, is a service that creates a secure connection between a device and a remote server over the internet. VPNs are used to protect a user's data and browsing activity by encrypting it and masking their IP address. 
+
+       VPNs can be used for a variety of purposes, including: 
+Protecting browsing history, hiding streaming location, securely transmitting              sensitive data, allowing remote work.
+   
