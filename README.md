@@ -51,9 +51,3 @@ DemonLinux
 ### DemonLinux: A penetration testing custom Debian distribution packaged as an ISO file, designed for ethical hackers and penetration testers.
 
 Each of these distributions and tools has its own strengths and weaknesses, and the choice of which one to use will depend on the specific needs and goals of the user.
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at fake@fake.com
